@@ -13,7 +13,7 @@ async function main() {
 		console.error(err)
 	}
 }
-//proba mikrofonu
+
 
 main()
 
